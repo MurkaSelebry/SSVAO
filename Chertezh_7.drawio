@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T04:03:43.056Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="soFVd7ifNZo0w-i8MRaR" version="24.4.10" type="device">
+<mxfile host="app.diagrams.net" modified="2024-05-30T04:07:05.604Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="JOsn4o3eLAMIAJfjoCFo" version="24.4.10" type="device">
   <diagram name="Страница — 1" id="XiQpm0jNWGv7Rn1aHyVG">
     <mxGraphModel dx="5521" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2992,7 +2992,7 @@
         <mxCell id="E2h3W7yyUxqm9nJr8y-u-1226" value="" style="group;fontFamily=Times New Roman;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-3130" y="-1020" width="290" height="1440" as="geometry" />
         </mxCell>
-        <mxCell id="E2h3W7yyUxqm9nJr8y-u-1227" value="Сетевое Устройство&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;№2&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;Коммутатор Уровня Распределения №1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;horizontal=0;" parent="E2h3W7yyUxqm9nJr8y-u-1226" vertex="1">
+        <mxCell id="E2h3W7yyUxqm9nJr8y-u-1227" value="Сетевое Устройство&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;№2&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;Коммутатор Уровня Распределения №2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;horizontal=0;" parent="E2h3W7yyUxqm9nJr8y-u-1226" vertex="1">
           <mxGeometry x="90" width="120" height="1440" as="geometry" />
         </mxCell>
         <mxCell id="E2h3W7yyUxqm9nJr8y-u-1228" value="10GBASE-R&lt;br&gt;(SFP+) №1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="E2h3W7yyUxqm9nJr8y-u-1226" vertex="1">
@@ -3408,7 +3408,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vlk2hkpB563goBUVQMlX-3" value="В Здание №3, Коммутатор&amp;nbsp; Уровня Распределения №2,&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Чертеж №3&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="Vlk2hkpB563goBUVQMlX-3" value="В Здание №3, Коммутатор&amp;nbsp; Уровня Распределения №1,&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Чертеж №3&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="-2560" y="240" width="506" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vlk2hkpB563goBUVQMlX-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#990243;fontFamily=Times New Roman;" parent="1" source="E2h3W7yyUxqm9nJr8y-u-1281" target="E2h3W7yyUxqm9nJr8y-u-1343" edge="1">
