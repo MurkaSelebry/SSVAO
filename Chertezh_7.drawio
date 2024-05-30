@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T04:07:05.604Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="JOsn4o3eLAMIAJfjoCFo" version="24.4.10" type="device">
+<mxfile host="app.diagrams.net" modified="2024-05-30T04:40:32.726Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="dlbTCEhMLEiOoAhICCs5" version="24.4.10" type="device">
   <diagram name="Страница — 1" id="XiQpm0jNWGv7Rn1aHyVG">
     <mxGraphModel dx="5521" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-3010" y="770" width="951" height="583.14" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-2360.0200000000004" y="1235" width="286" height="85.64" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-2667.5" y="1240.32" width="286" height="85.64" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-2976" y="1008.72" width="286" height="111.28" as="geometry" />
+        </mxCell>
         <mxCell id="E2h3W7yyUxqm9nJr8y-u-1" value="" style="group;strokeWidth=1;fontFamily=Times New Roman;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1820" y="640" width="290" height="1440" as="geometry" />
         </mxCell>
@@ -3445,270 +3457,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-3010" y="754.36" width="950" height="495.64" as="geometry" />
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-2986" y="774.36" width="286" height="350" as="geometry" />
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-67" value="&lt;font face=&quot;Times New Roman&quot;&gt;В коммутаторы уровня доступа в здании №3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2963" y="780.36" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-71" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: center; text-wrap: nowrap;&quot;&gt;Подключение 10 Гбит/c (10GE)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2929.5" y="804.36" width="173" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-73" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#FF0080;fontFamily=Times New Roman;entryX=0.833;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2926.4399999999996" y="843.75" as="sourcePoint" />
-            <mxPoint x="-2767.548" y="843.75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-77" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#7F00FF;fontFamily=Times New Roman;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2926.4399999999996" y="864.36" as="sourcePoint" />
-            <mxPoint x="-2767.548" y="864.36" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-78" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#0000FF;fontFamily=Times New Roman;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2926.4399999999996" y="884.36" as="sourcePoint" />
-            <mxPoint x="-2767.548" y="884.36" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-79" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#FF8000;fontFamily=Times New Roman;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2926.4399999999996" y="904.36" as="sourcePoint" />
-            <mxPoint x="-2767.548" y="904.36" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-80" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#FF00FF;fontFamily=Times New Roman;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2926.4399999999996" y="924.36" as="sourcePoint" />
-            <mxPoint x="-2767.548" y="924.36" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-81" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#006600;fontFamily=Times New Roman;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2926.4399999999996" y="944.36" as="sourcePoint" />
-            <mxPoint x="-2767.548" y="944.36" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-82" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#7EA6E0;fontFamily=Times New Roman;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2926.4399999999996" y="964.36" as="sourcePoint" />
-            <mxPoint x="-2767.548" y="964.36" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-83" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#FF0080;fontFamily=Times New Roman;dashed=1;dashPattern=8 8;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2926.4399999999996" y="984.36" as="sourcePoint" />
-            <mxPoint x="-2767.548" y="984.36" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-84" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#7F00FF;fontFamily=Times New Roman;dashed=1;dashPattern=8 8;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2926.4399999999996" y="1004.36" as="sourcePoint" />
-            <mxPoint x="-2767.548" y="1004.36" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-85" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#0000FF;fontFamily=Times New Roman;dashed=1;dashPattern=8 8;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2926.4399999999996" y="1024.3600000000001" as="sourcePoint" />
-            <mxPoint x="-2767.548" y="1024.3600000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-86" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#FF8000;fontFamily=Times New Roman;dashed=1;dashPattern=8 8;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2926.4399999999996" y="1044.3600000000001" as="sourcePoint" />
-            <mxPoint x="-2767.548" y="1044.3600000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-87" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#FF00FF;fontFamily=Times New Roman;dashed=1;dashPattern=8 8;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2926.4399999999996" y="1064.3600000000001" as="sourcePoint" />
-            <mxPoint x="-2767.548" y="1064.3600000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-88" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#006600;fontFamily=Times New Roman;dashed=1;dashPattern=8 8;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2926.4399999999996" y="1084.3600000000001" as="sourcePoint" />
-            <mxPoint x="-2767.548" y="1084.3600000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-89" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#7EA6E0;fontFamily=Times New Roman;dashed=1;dashPattern=8 8;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2926.4399999999996" y="1104.3600000000001" as="sourcePoint" />
-            <mxPoint x="-2767.548" y="1104.3600000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-91" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-2679" y="774.36" width="286" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-92" value="&lt;font face=&quot;Times New Roman&quot;&gt;В коммутаторы уровня доступа в здании №4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2661" y="780.36" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-93" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: center; text-wrap: nowrap;&quot;&gt;Подключение 10 Гбит/c (10GE)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2620.37" y="804.36" width="168.75" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-95" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#000000;fontFamily=Times New Roman;dashed=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2615.45" y="864.36" as="sourcePoint" />
-            <mxPoint x="-2456.558" y="864.36" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-96" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#000000;fontFamily=Times New Roman;dashed=1;dashPattern=8 8;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2615.45" y="884.36" as="sourcePoint" />
-            <mxPoint x="-2456.558" y="884.36" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-108" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#000000;fontFamily=Times New Roman;entryX=0.833;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2615.45" y="844.36" as="sourcePoint" />
-            <mxPoint x="-2456.558" y="844.36" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-115" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-2679" y="924.36" width="286" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-116" value="&lt;font face=&quot;Times New Roman&quot;&gt;В коммутаторы уровня доступа в здании №5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2656" y="934.36" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-117" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: center; text-wrap: nowrap;&quot;&gt;Подключение 10 Гбит/c (10GE)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2620.37" y="954.36" width="168.75" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-118" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#000000;fontFamily=Times New Roman;dashed=1;dashPattern=1 1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2615.45" y="1014.36" as="sourcePoint" />
-            <mxPoint x="-2456.558" y="1014.36" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-120" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#000000;fontFamily=Times New Roman;entryX=0.833;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=12 12;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2615.45" y="994.36" as="sourcePoint" />
-            <mxPoint x="-2456.558" y="994.36" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-131" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-2370" y="774.36" width="286" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-132" value="&lt;font face=&quot;Times New Roman&quot;&gt;В коммутатор уровня доступа в здании №2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2347" y="780.36" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-133" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: center; text-wrap: nowrap;&quot;&gt;Подключение 10 Гбит/c (10GE)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2311.87" y="804.36" width="169.75" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-135" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#937EBA;fontFamily=Times New Roman;entryX=0.833;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2306.45" y="844.36" as="sourcePoint" />
-            <mxPoint x="-2147.558" y="844.36" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-136" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-2370" y="884.36" width="286" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-137" value="&lt;font face=&quot;Times New Roman&quot;&gt;В коммутаторы уровня ядра в здании №2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2347" y="894.36" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-138" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: center; text-wrap: nowrap;&quot;&gt;Подключение 40 Гбит/c (40GE)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2311.88" y="914.36" width="169.75" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-140" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#990243;fontFamily=Times New Roman;entryX=0.833;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2306.45" y="954.36" as="sourcePoint" />
-            <mxPoint x="-2147.558" y="954.36" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-141" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-2370.01" y="994.36" width="286" height="205.64" as="geometry" />
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-142" value="&lt;font face=&quot;Times New Roman&quot;&gt;В коммутатор уровня распределения в здании №3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2355.5" y="1004.36" width="257.01" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-143" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: center; text-wrap: nowrap;&quot;&gt;Подключение 40 Гбит/c (40GE)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2311.8900000000003" y="1024.3600000000001" width="169.75" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-144" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#990243;fontFamily=Times New Roman;entryX=0.833;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2306.46" y="1064.3600000000001" as="sourcePoint" />
-            <mxPoint x="-2147.568" y="1064.3600000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-146" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-2679" y="1054.3600000000001" width="286" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-147" value="&lt;font face=&quot;Times New Roman&quot;&gt;В коммутаторы уровня доступа в здании №1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2661" y="1060.3600000000001" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-148" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: center; text-wrap: nowrap;&quot;&gt;Подключение 10 Гбит/c (10GE)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2618.87" y="1084.3600000000001" width="165.75" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-149" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#962F70;fontFamily=Times New Roman;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2615.45" y="1144.3600000000001" as="sourcePoint" />
-            <mxPoint x="-2456.558" y="1144.3600000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-150" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#1E662A;fontFamily=Times New Roman;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2615.45" y="1164.3600000000001" as="sourcePoint" />
-            <mxPoint x="-2456.558" y="1164.3600000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-151" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#99911C;fontFamily=Times New Roman;entryX=0.833;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2615.45" y="1124.3600000000001" as="sourcePoint" />
-            <mxPoint x="-2456.558" y="1124.3600000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-152" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#103BC9;fontFamily=Times New Roman;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2615.45" y="1184.3600000000001" as="sourcePoint" />
-            <mxPoint x="-2456.558" y="1184.3600000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-154" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-2986" y="1144.3600000000001" width="286" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-155" value="&lt;font&gt;В АРМ и МФУ&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-2968" y="1150.3600000000001" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-156" value="&lt;span style=&quot;text-align: center; text-wrap: nowrap;&quot;&gt;Подключение 1 Гбит/c (1000 BASE-T)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-2945.75" y="1174.3600000000001" width="205.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-157" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#962F70;fontFamily=Times New Roman;dashed=1;dashPattern=8 8;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2306.44" y="1139.5300000000002" as="sourcePoint" />
-            <mxPoint x="-2147.5480000000002" y="1139.5300000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-158" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#1E662A;fontFamily=Times New Roman;dashed=1;dashPattern=8 8;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2306.44" y="1159.5300000000002" as="sourcePoint" />
-            <mxPoint x="-2147.5480000000002" y="1159.5300000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-159" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#99911C;fontFamily=Times New Roman;entryX=0.833;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2306.44" y="1119.5300000000002" as="sourcePoint" />
-            <mxPoint x="-2147.5480000000002" y="1119.5300000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-160" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#103BC9;fontFamily=Times New Roman;dashed=1;dashPattern=8 8;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2306.44" y="1179.5300000000002" as="sourcePoint" />
-            <mxPoint x="-2147.5480000000002" y="1179.5300000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-161" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#00CC00;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2922.45" y="1213.4900000000002" as="sourcePoint" />
-            <mxPoint x="-2763.558" y="1213.4900000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y3I12zqnxTt5PVyb2pmE-170" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: center; text-wrap: nowrap;&quot;&gt;Подключение 10 Гбит/c (10GE)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2311.8700000000003" y="1082.0000000000002" width="169.75" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="xS9o1sJecsj1D4d2ipn--1" value="&lt;span style=&quot;font-family: Calibri, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;40GBASE-R(QSFP+)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3650" y="-1096.57" width="130" height="22.82" as="geometry" />
         </mxCell>
@@ -4500,6 +4248,255 @@
             <mxPoint x="260" y="580" as="sourcePoint" />
             <mxPoint x="379" y="548.6800000000001" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-2976" y="1125.9299999999998" width="286" height="105.64" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-2976" y="890" width="286" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-2976" y="784.36" width="286" height="85.64" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;В коммутаторы уровня доступа в здании №1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2953" y="790.36" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-8" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: center; text-wrap: nowrap;&quot;&gt;Подключение 10 Гбит/c (10GE)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2919.5" y="814.36" width="173" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#FF0080;fontFamily=Times New Roman;entryX=0.833;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2916.4399999999996" y="853.75" as="sourcePoint" />
+            <mxPoint x="-2757.548" y="853.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-2669" y="784.36" width="289" height="85.64" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;В коммутаторы уровня доступа в здании №6&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2651" y="790.36" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-12" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: center; text-wrap: nowrap;&quot;&gt;Подключение 10 Гбит/c (10GE)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2610.37" y="814.36" width="168.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-2669" y="890" width="289" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;В коммутаторы уровня доступа в здании №5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2644.5" y="894.36" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-15" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: center; text-wrap: nowrap;&quot;&gt;Подключение 10 Гбит/c (10GE)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2608.87" y="920" width="168.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-2360" y="784.36" width="286" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;В коммутатор уровня доступа в здании №8&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2337" y="790.36" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-18" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: center; text-wrap: nowrap;&quot;&gt;Подключение 10 Гбит/c (10GE)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2301.87" y="814.36" width="169.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-19" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#937EBA;fontFamily=Times New Roman;entryX=0.833;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2296.45" y="854.36" as="sourcePoint" />
+            <mxPoint x="-2137.558" y="854.36" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-2360" y="894.36" width="286" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-21" value="&lt;font face=&quot;Times New Roman&quot;&gt;В коммутаторы уровня ядра в здании №8&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2337" y="904.36" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-22" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: center; text-wrap: nowrap;&quot;&gt;Подключение 40 Гбит/c (40GE)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2301.88" y="924.36" width="169.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#990243;fontFamily=Times New Roman;entryX=0.833;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2296.45" y="964.36" as="sourcePoint" />
+            <mxPoint x="-2137.558" y="964.36" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-2360.01" y="1004.36" width="286" height="205.64" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-25" value="&lt;font face=&quot;Times New Roman&quot;&gt;В коммутатор уровня распределения в здании №3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2345.5" y="1014.36" width="257.01" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-26" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: center; text-wrap: nowrap;&quot;&gt;Подключение 40 Гбит/c (40GE)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2301.8900000000003" y="1034.3600000000001" width="169.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-27" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#990243;fontFamily=Times New Roman;entryX=0.833;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2296.46" y="1074.3600000000001" as="sourcePoint" />
+            <mxPoint x="-2137.568" y="1074.3600000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-2668.25" y="1045" width="286" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-29" value="&lt;font face=&quot;Times New Roman&quot;&gt;В коммутаторы уровня доступа в здании №3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2650.25" y="1051" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-30" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: center; text-wrap: nowrap;&quot;&gt;Подключение 10 Гбит/c (10GE)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2608.12" y="1075" width="165.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-31" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#962F70;fontFamily=Times New Roman;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2604.7" y="1135" as="sourcePoint" />
+            <mxPoint x="-2445.808" y="1135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-32" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#1E662A;fontFamily=Times New Roman;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2604.7" y="1155" as="sourcePoint" />
+            <mxPoint x="-2445.808" y="1155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-33" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#99911C;fontFamily=Times New Roman;entryX=0.833;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2604.7" y="1115" as="sourcePoint" />
+            <mxPoint x="-2445.808" y="1115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#103BC9;fontFamily=Times New Roman;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2604.7" y="1175" as="sourcePoint" />
+            <mxPoint x="-2445.808" y="1175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-2976" y="1238.1400000000003" width="286" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-36" value="&lt;font&gt;В АРМ и МФУ&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-2958" y="1244.1400000000003" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-37" value="&lt;span style=&quot;text-align: center; text-wrap: nowrap;&quot;&gt;Подключение 1 Гбит/c (1000 BASE-T)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-2935.75" y="1268.1400000000003" width="205.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-38" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#962F70;fontFamily=Times New Roman;dashed=1;dashPattern=8 8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2296.44" y="1149.5300000000002" as="sourcePoint" />
+            <mxPoint x="-2137.5480000000002" y="1149.5300000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-39" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#1E662A;fontFamily=Times New Roman;dashed=1;dashPattern=8 8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2296.44" y="1169.5300000000002" as="sourcePoint" />
+            <mxPoint x="-2137.5480000000002" y="1169.5300000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-40" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#99911C;fontFamily=Times New Roman;entryX=0.833;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2296.44" y="1129.5300000000002" as="sourcePoint" />
+            <mxPoint x="-2137.5480000000002" y="1129.5300000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-41" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#103BC9;fontFamily=Times New Roman;dashed=1;dashPattern=8 8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2296.44" y="1189.5300000000002" as="sourcePoint" />
+            <mxPoint x="-2137.5480000000002" y="1189.5300000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-42" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#00CC00;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2912.45" y="1307.2700000000004" as="sourcePoint" />
+            <mxPoint x="-2753.558" y="1307.2700000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-43" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: center; text-wrap: nowrap;&quot;&gt;Подключение 10 Гбит/c (10GE)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2301.8700000000003" y="1092.0000000000002" width="169.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-44" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#7F00FF;fontFamily=Times New Roman;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2919.4999999999995" y="958.86" as="sourcePoint" />
+            <mxPoint x="-2760.6079999999997" y="958.86" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-45" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#0000FF;fontFamily=Times New Roman;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2919.4999999999995" y="978.86" as="sourcePoint" />
+            <mxPoint x="-2760.6079999999997" y="978.86" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-46" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#FF00FF;fontFamily=Times New Roman;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2919.4999999999995" y="1104.2199999999998" as="sourcePoint" />
+            <mxPoint x="-2760.6079999999997" y="1104.2199999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-47" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#006600;fontFamily=Times New Roman;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2919.4999999999995" y="1211.57" as="sourcePoint" />
+            <mxPoint x="-2760.6079999999997" y="1211.57" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-48" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#7EA6E0;fontFamily=Times New Roman;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2610.3699999999994" y="854.36" as="sourcePoint" />
+            <mxPoint x="-2451.4779999999996" y="854.36" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-51" value="&lt;font face=&quot;Times New Roman&quot;&gt;В коммутаторы уровня доступа в здании №2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2953" y="896" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-52" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: center; text-wrap: nowrap;&quot;&gt;Подключение 10 Гбит/c (10GE)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2919.5" y="920" width="173" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-54" value="&lt;font face=&quot;Times New Roman&quot;&gt;В коммутаторы уровня доступа в здании №3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2953" y="1023.5" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-55" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: center; text-wrap: nowrap;&quot;&gt;Подключение 10 Гбит/c (10GE)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2919.5" y="1047.5" width="173" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-56" value="&lt;font face=&quot;Times New Roman&quot;&gt;В коммутаторы уровня доступа в здании №4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2953" y="1131.93" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-57" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: center; text-wrap: nowrap;&quot;&gt;Подключение 10 Гбит/c (10GE)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2919.5" y="1155.93" width="163.5" height="16.28" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-58" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#FF8000;fontFamily=Times New Roman;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2919.4999999999995" y="1080.64" as="sourcePoint" />
+            <mxPoint x="-2760.6079999999997" y="1080.64" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-59" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#FF0080;fontFamily=Times New Roman;dashed=1;dashPattern=8 8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2605.45" y="959.36" as="sourcePoint" />
+            <mxPoint x="-2446.558" y="959.36" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-60" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#7F00FF;fontFamily=Times New Roman;dashed=1;dashPattern=8 8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2605.45" y="979.36" as="sourcePoint" />
+            <mxPoint x="-2446.558" y="979.36" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-61" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#0000FF;fontFamily=Times New Roman;dashed=1;dashPattern=8 8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2604.7" y="1309.32" as="sourcePoint" />
+            <mxPoint x="-2445.808" y="1309.32" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-62" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#FF8000;fontFamily=Times New Roman;dashed=1;dashPattern=8 8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2307.2200000000003" y="1306.2800000000002" as="sourcePoint" />
+            <mxPoint x="-2148.3280000000004" y="1306.2800000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-68" value="&lt;font face=&quot;Times New Roman&quot;&gt;В коммутаторы уровня доступа в здании №9&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2644.5" y="1246.32" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-69" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: center; text-wrap: nowrap;&quot;&gt;Подключение 10 Гбит/c (10GE)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2611" y="1270.32" width="171.5" height="25.64" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-72" value="&lt;font face=&quot;Times New Roman&quot;&gt;В коммутаторы уровня доступа в здании №10&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2337.0200000000004" y="1241" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wHU8YDkYMs3txBo9oUPb-73" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: center; text-wrap: nowrap;&quot;&gt;Подключение 10 Гбит/c (10GE)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2303.5200000000004" y="1265" width="173" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
